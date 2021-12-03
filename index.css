@@ -1,0 +1,23 @@
+.main {
+  padding: 2rem;
+}
+
+.ml45px {
+  margin-left: 45px;
+}
+
+.p1rem {
+  padding: 0 1rem;
+}
+
+.input-field {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}
+
+.page-footer {
+  padding-top: 0;
+}
